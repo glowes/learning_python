@@ -7,4 +7,7 @@ topics:
   - ETL pipelines
   - pandas and Numpy library
   - File operations
+  - DB access
+    
+
 
