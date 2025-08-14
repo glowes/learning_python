@@ -1,0 +1,8 @@
+2025-Aug-14-17:39:37 Starting process...
+2025-Aug-14-17:39:39 Extraction end!
+2025-Aug-14-17:39:39 Starting data Transform...
+2025-Aug-14-17:39:39 Data transform end
+2025-Aug-14-17:39:39 Starting loading data into CSV file
+2025-Aug-14-17:39:39 Data Loaded into CSV finished!
+2025-Aug-14-17:39:39 Starting loading Data into Database
+2025-Aug-14-17:39:39 loading Data into Database finished!
