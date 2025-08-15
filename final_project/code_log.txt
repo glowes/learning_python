@@ -1,0 +1,71 @@
+2025-Aug-15-21:13:09 : Start processing ... 
+2025-Aug-15-21:13:11 : Webscrapping end! 
+2025-Aug-15-21:13:11 : Data transform started! 
+2025-Aug-15-21:13:11 : Data transform Ended! 
+2025-Aug-15-21:13:11 : Data Load into CSV file Started! 
+2025-Aug-15-21:13:11 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:13:11 : Data Load into database Started! 
+2025-Aug-15-21:13:11 : Data Load into database Ended! 
+2025-Aug-15-21:13:37 : Start processing ... 
+2025-Aug-15-21:13:38 : Webscrapping end! 
+2025-Aug-15-21:13:38 : Data transform started! 
+2025-Aug-15-21:13:38 : Data transform Ended! 
+2025-Aug-15-21:13:38 : Data Load into CSV file Started! 
+2025-Aug-15-21:13:38 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:13:38 : Data Load into database Started! 
+2025-Aug-15-21:13:38 : Data Load into database Ended! 
+2025-Aug-15-21:15:02 : Start processing ... 
+2025-Aug-15-21:15:03 : Webscrapping end! 
+2025-Aug-15-21:15:03 : Data transform started! 
+2025-Aug-15-21:15:03 : Data transform Ended! 
+2025-Aug-15-21:15:03 : Data Load into CSV file Started! 
+2025-Aug-15-21:15:03 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:15:03 : Data Load into database Started! 
+2025-Aug-15-21:15:03 : Data Load into database Ended! 
+2025-Aug-15-21:19:02 : Start processing ... 
+2025-Aug-15-21:19:04 : Webscrapping end! 
+2025-Aug-15-21:19:04 : Data transform started! 
+2025-Aug-15-21:19:04 : Data transform Ended! 
+2025-Aug-15-21:19:04 : Data Load into CSV file Started! 
+2025-Aug-15-21:19:04 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:19:04 : Data Load into database Started! 
+2025-Aug-15-21:19:04 : Data Load into database Ended! 
+2025-Aug-15-21:19:26 : Start processing ... 
+2025-Aug-15-21:19:27 : Webscrapping end! 
+2025-Aug-15-21:19:27 : Data transform started! 
+2025-Aug-15-21:19:27 : Data transform Ended! 
+2025-Aug-15-21:19:27 : Data Load into CSV file Started! 
+2025-Aug-15-21:19:27 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:19:27 : Data Load into database Started! 
+2025-Aug-15-21:19:27 : Data Load into database Ended! 
+2025-Aug-15-21:25:25 : Start processing ... 
+2025-Aug-15-21:25:28 : Webscrapping end! 
+2025-Aug-15-21:25:28 : Data transform started! 
+2025-Aug-15-21:25:28 : Data transform Ended! 
+2025-Aug-15-21:25:28 : Data Load into CSV file Started! 
+2025-Aug-15-21:25:28 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:25:28 : Data Load into database Started! 
+2025-Aug-15-21:25:28 : Data Load into database Ended! 
+2025-Aug-15-21:31:32 : Start processing ... 
+2025-Aug-15-21:31:34 : Webscrapping end! 
+2025-Aug-15-21:31:34 : Data transform started! 
+2025-Aug-15-21:31:34 : Data transform Ended! 
+2025-Aug-15-21:31:34 : Data Load into CSV file Started! 
+2025-Aug-15-21:31:34 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:31:34 : Data Load into database Started! 
+2025-Aug-15-21:32:25 : Start processing ... 
+2025-Aug-15-21:32:26 : Webscrapping end! 
+2025-Aug-15-21:32:26 : Data transform started! 
+2025-Aug-15-21:32:26 : Data transform Ended! 
+2025-Aug-15-21:32:26 : Data Load into CSV file Started! 
+2025-Aug-15-21:32:26 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:32:26 : Data Load into database Started! 
+2025-Aug-15-21:32:26 : Data Load into database Ended! 
+2025-Aug-15-21:51:18 : Start processing ... 
+2025-Aug-15-21:51:20 : Webscrapping end! 
+2025-Aug-15-21:51:20 : Data transform started! 
+2025-Aug-15-21:51:20 : Data transform Ended! 
+2025-Aug-15-21:51:20 : Data Load into CSV file Started! 
+2025-Aug-15-21:51:20 : Data Load  into CSV file Ended! 
+2025-Aug-15-21:51:20 : Data Load into database Started! 
+2025-Aug-15-21:51:20 : Data Load into database Ended! 
